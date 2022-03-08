@@ -2,11 +2,11 @@ body {
   font-size: 24px;
 }
 a {
-  color: rgb(92, 117, 230);
+  /* color: rgb(92, 117, 230); */
   text-decoration: none;
 }
 a:link {
-  color: rgb(22, 20, 21);
+  color: rgb(6, 66, 63);
 }
 a:visited {
   color: rgb(216, 236, 29);
@@ -19,5 +19,5 @@ a:hover {
   color: rgb(121, 12, 21);
 }
 a:active {
-  color: rgba(58, 8, 78, 0.582);
+  color: rgb(58, 8, 78);
 }
