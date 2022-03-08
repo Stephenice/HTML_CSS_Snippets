@@ -10,7 +10,7 @@ footer {
 }
 
 html {
-  font-size: 20px;
+  font-size: 16px;
 }
 main {
   background: #000000;
@@ -54,5 +54,10 @@ main {
   .wrapper {
     margin: 0 auto;
     max-width: 75rem;
+  }
+
+  main {
+    background: white;
+    color: #000000;
   }
 }
